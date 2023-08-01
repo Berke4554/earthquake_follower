@@ -1,0 +1,554 @@
+[
+  {
+    "channelName": "Turkcell",
+    "sell_in": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 5,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 4,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 7,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 3,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 6,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ],
+    "stock": [],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 6,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 3,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 5,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 2,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 9,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ]
+  },
+  {
+    "channelName": "MediaMarkt",
+    "sell_in": [],
+    "stock": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 5,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 4,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 7,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 3,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 6,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 10,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 22,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 1,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 3,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 6,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 2,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ]
+  },
+  {
+    "channelName": "Vatan",
+    "sell_in": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 2,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 1,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 2,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 5,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 15,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 33,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ],
+    "stock": [],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 4,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 3,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 4,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 4,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 2,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 61,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ]
+  },
+  {
+    "channelName": "Ouno",
+    "sell_in": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 6,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 1,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 1,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 3,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 2,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 67,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ],
+    "stock": [],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 51,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 4,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 3,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 2,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 2,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 66,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ]
+  },
+  {
+    "channelName": "Arena",
+    "sell_in": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 6,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 7,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 8,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 35,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 83,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 61,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ],
+    "stock": [],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 1,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 4,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 3,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 13,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 6,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ]
+  },
+  {
+    "channelName": "Vodafone",
+    "sell_in": [],
+    "stock": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 5,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 4,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 7,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 3,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 6,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 5,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 4,
+        "index": 2
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 7,
+        "index": 3
+      },
+      {
+        "productName": "Moby",
+        "color": "#333333",
+        "count": 3,
+        "index": 4
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "HoDoor",
+        "color": "#a5d6a7",
+        "count": 6,
+        "index": 6
+      },
+      {
+        "productName": "Diğer",
+        "color": "#1e88e5",
+        "count": 1,
+        "index": 7
+      }
+    ]
+  }
+]

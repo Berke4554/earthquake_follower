@@ -11,6 +11,73 @@ import React from "react";
 import { BasText, SonucText } from "../constants/textstyle";
 
 function Magazalar() {
+  var x = 0;
+
+  if (x == 1) {
+    return (
+      <div style={{ display: "flex" }}>
+        <Box
+          sx={{
+            width: "100%",
+            display: "flex",
+            justifyContent: "space-between",
+          }}
+        >
+          <Box
+            className="box-info"
+            display={"flex"}
+            flexDirection={"column"}
+            justifyContent={"space-between"}
+            height={"50px"}
+          >
+            <Typography sx={BasText}>Magaza</Typography>
+            <Typography sx={SonucText}>Magaza 1</Typography>
+          </Box>
+          <Box
+            className="box-info"
+            display={"flex"}
+            flexDirection={"column"}
+            justifyContent={"space-between"}
+            height={"50px"}
+          >
+            <Typography sx={BasText}>Location</Typography>
+            <Typography sx={SonucText}>12139219039029321902</Typography>
+          </Box>
+          <Box
+            className="box-info"
+            display={"flex"}
+            flexDirection={"column"}
+            justifyContent={"space-between"}
+            height={"50px"}
+          >
+            <Typography sx={BasText}>Coordinates</Typography>
+            <Typography sx={SonucText}>12h 54m</Typography>
+          </Box>
+          <Box
+            className="box-info"
+            display={"flex"}
+            flexDirection={"column"}
+            justifyContent={"space-between"}
+            height={"50px"}
+          >
+            <Typography sx={BasText}>Coordinates</Typography>
+            <Typography sx={SonucText}>12h 54m</Typography>
+          </Box>
+          <Box
+            className="box-info"
+            display={"flex"}
+            flexDirection={"column"}
+            justifyContent={"space-between"}
+            height={"50px"}
+          >
+            <Typography sx={BasText}>Durum</Typography>
+            <Typography sx={SonucText}>12h 54m</Typography>
+          </Box>
+        </Box>
+      </div>
+    );
+  }
+
   return (
     <div style={{ display: "flex" }}>
       <Box

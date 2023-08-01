@@ -128,7 +128,7 @@ const TopNavBar = () => {
                 alignItems: "center",
               }}
             >
-              <Avatar sx={{ bgcolor: "blue", marginRight: "8px" }}>H</Avatar>
+              <Avatar sx={{ bgcolor: "blue", marginRight: "8px" }}>B</Avatar>
               <Typography variant="h6">B-Vibe</Typography>
             </Box>
           </LeftSide>

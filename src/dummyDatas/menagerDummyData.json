@@ -1,0 +1,507 @@
+[
+  {
+    "managerName": "ilter",
+    "sales": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "stock": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "sellIn": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "ürünToplam": 0,
+    "yöneticiToplam": 0
+  },
+  {
+    "managerName": "kemal",
+    "sales": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "stock": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "sellIn": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "ürünToplam": 0,
+    "yöneticiToplam": 0
+  },
+  {
+    "managerName": "çağatay",
+    "sales": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "stock": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "sellIn": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "ürünToplam": 0,
+    "yöneticiToplam": 0
+  },
+  {
+    "managerName": "adana",
+    "sales": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "stock": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "sellIn": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "ürünToplam": 0,
+    "yöneticiToplam": 0
+  },
+  {
+    "managerName": "selim",
+    "sales": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "stock": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "sellIn": [
+      {
+        "index": 4,
+        "productName": "IOT",
+        "count": 0
+      },
+      {
+        "index": 1,
+        "productName": "Connect",
+        "count": 0
+      },
+      {
+        "index": 2,
+        "productName": "Vision",
+        "count": 0
+      },
+      {
+        "index": 6,
+        "productName": "Diğer",
+        "count": 0
+      },
+      {
+        "index": 3,
+        "productName": "Setler",
+        "count": 0
+      },
+      {
+        "index": 5,
+        "productName": "Pet",
+        "count": 0
+      }
+    ],
+    "ürünToplam": 0,
+    "yöneticiToplam": 0
+  }
+]

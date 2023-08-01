@@ -9,6 +9,18 @@ function App() {
     <>
       {/*item spacing={1} display={"flex"} p={4} */}
       <TopNavBar />
+      <Box
+        style={{
+          display: "flex",
+          alignItems: "center",
+          marginTop: "15px",
+          marginLeft: "1.5%",
+          color: "white",
+          fontWeight: "bold",
+        }}
+      >
+        Onay Bekleyenler
+      </Box>
       <Grid
         container
         justifyContent={"center"}

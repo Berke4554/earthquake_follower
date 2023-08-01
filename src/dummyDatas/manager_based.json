@@ -1,0 +1,130 @@
+[
+  {
+    "stock": [
+      {
+        "productName": "Connect",
+        "Ilter": 20,
+        "Çağtay": 10,
+        "Deniz": 5,
+        "Selim": 0,
+        "Toplam": 35
+      },
+      {
+        "productName": "Vision",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Moby",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Hodor",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Toplam",
+        "Ilter": 204,
+        "Çağtay": 162,
+        "Deniz": 64,
+        "Selim": 118,
+        "Toplam": 548
+      }
+    ],
+    "sales": [
+      {
+        "productName": "Connect",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Vision",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Moby",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Hodor",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Toplam",
+        "Ilter": 204,
+        "Çağtay": 162,
+        "Deniz": 64,
+        "Selim": 118,
+        "Toplam": 548
+      }
+    ],
+    "sellIn": [
+      {
+        "productName": "Connect",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Vision",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Moby",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Hodor",
+        "Ilter": 30,
+        "Çağtay": 20,
+        "Deniz": 10,
+        "Selim": 5,
+        "Toplam": 65
+      },
+      {
+        "productName": "Toplam",
+        "Ilter": 204,
+        "Çağtay": 162,
+        "Deniz": 64,
+        "Selim": 118,
+        "Toplam": 548
+      }
+    ]
+  }
+]

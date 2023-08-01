@@ -1,0 +1,136 @@
+[
+  {
+    "sellIn": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 69,
+        "index": 3
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 2,
+        "index": 7
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 8,
+        "index": 5
+      },
+      {
+        "productName": "Mood",
+        "color": "#db03fc",
+        "count": 38,
+        "index": 4
+      },
+      {
+        "productName": "Boss",
+        "color": "#ce93d8",
+        "count": 89,
+        "index": 1
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 84,
+        "index": 2
+      },
+      {
+        "productName": "Diğer",
+        "color": "#26c6da",
+        "count": 170,
+        "index": 7
+      }
+    ],
+    "sales": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 45,
+        "index": 5
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 8,
+        "index": 6
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 7,
+        "index": 7
+      },
+      {
+        "productName": "Mood",
+        "color": "#db03fc",
+        "count": 124,
+        "index": 1
+      },
+      {
+        "productName": "Boss",
+        "color": "#ce93d8",
+        "count": 46,
+        "index": 3
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 90,
+        "index": 2
+      },
+      {
+        "productName": "Diğer",
+        "color": "#26c6da",
+        "count": 54,
+        "index": 8
+      }
+    ],
+    "stock": [
+      {
+        "productName": "Connect",
+        "color": "#fc7f03",
+        "count": 60,
+        "index": 5
+      },
+      {
+        "productName": "Join V1",
+        "color": "#5efc03",
+        "count": 73,
+        "index": 4
+      },
+      {
+        "productName": "Vision",
+        "color": "#8803fc",
+        "count": 151,
+        "index": 1
+      },
+      {
+        "productName": "Mood",
+        "color": "#db03fc",
+        "count": 35,
+        "index": 6
+      },
+      {
+        "productName": "Boss",
+        "color": "#ce93d8",
+        "count": 90,
+        "index": 3
+      },
+      {
+        "productName": "Locate",
+        "color": "#ffc107",
+        "count": 126,
+        "index": 2
+      },
+      {
+        "productName": "Diğer",
+        "color": "#26c6da",
+        "count": 76,
+        "index": 7
+      }
+    ]
+  }
+]
