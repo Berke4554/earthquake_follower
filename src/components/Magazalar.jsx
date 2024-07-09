@@ -11,7 +11,7 @@ import React from "react";
 import { BasText, SonucText } from "../constants/textstyle";
 
 function Magazalar() {
-  var x = 0;
+  var x = 1;
 
   if (x == 1) {
     return (

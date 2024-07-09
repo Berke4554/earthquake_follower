@@ -4,7 +4,6 @@ import React, { useEffect, useState } from "react";
 
 function DepremInfo(props) {
   const { veri } = props;
-  console.log("2.veriiii:", veri);
 
   return (
     <div>
